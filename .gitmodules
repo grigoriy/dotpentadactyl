@@ -1,0 +1,3 @@
+[submodule "plugins/pterosaur"]
+	path = plugins/pterosaur
+	url = git@github.com:ardagnir/pterosaur.git
