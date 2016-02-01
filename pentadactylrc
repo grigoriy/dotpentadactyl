@@ -1,2 +1,2 @@
-set go=ns
+set go=MCns
 set passkeys+='https?://anyfile-notepad.*':<Esc>
